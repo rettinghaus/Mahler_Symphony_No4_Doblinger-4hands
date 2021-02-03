@@ -241,14 +241,14 @@
                         </layer>
                      </staff>
                      <slur xml:id="slur-0000001178544885" startid="#note-0000001903200967" endid="#note-0000001450901801" curvedir="below" />
-                     <slur xml:id="slur-0000001488788790" startid="#note-0000001450901801" endid="#note-0000001245095769" curvedir="above" />
+                     <slur xml:id="slur-0000001488788790" startid="#note-0000001450901801" endid="#note-0000000677115049" curvedir="above" />
                      <slur xml:id="slur-0000000826464847" startid="#note-0000001638530360" endid="#note-0000001565503992" curvedir="below" />
-                     <slur xml:id="slur-0000001805915604" startid="#note-0000001565503992" endid="#note-0000000822886877" curvedir="above" />
-                     <slur xml:id="slur-0000001302143152" startid="#note-0000001897936777" endid="#note-0000000660052420" curvedir="above" />
+                     <slur xml:id="slur-0000001805915604" startid="#note-0000001565503992" endid="#note-0000001627227326" curvedir="above" />
+                     <slur xml:id="slur-0000001302143152" startid="#note-0000001897936777" endid="#note-0000000524527251" curvedir="above" />
                      <dir xml:id="dir-0000001249625498" place="below" staff="2" tstamp="1.000000" vgrp="40">
                         <rend xml:id="rend-0000001241863688" fontstyle="italic">sempre</rend>
                      </dir>
-                     <dynam xml:id="dynam-0000001250594007" place="below" staff="2" tstamp="1.500000" vgrp="40">p</dynam>
+                     <dynam xml:id="dynam-0000001250594007" place="below" staff="2" tstamp="1.7500000" vgrp="40">p</dynam>
                      <dynam xml:id="dynam-0000001420754596" place="below" staff="3" tstamp="3.000000" vgrp="40">p</dynam>
                      <slur xml:id="slur-0000001783073148" startid="#note-0000002140626411" endid="#note-0000002010452902" curvedir="above" />
                   </measure>
@@ -348,9 +348,9 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dynam-0000000417061762" place="below" staff="1" tstamp="1.500000" vgrp="40">dim.</dynam>
-                     <slur xml:id="slur-0000001635721681" startid="#note-0000001913769240" endid="#note-0000001638000057" curvedir="above" />
-                     <slur xml:id="slur-0000001300045606" startid="#note-0000000469895228" endid="#note-0000001847203109" curvedir="above" />
-                     <breath xml:id="breath-0000001187228409" staff="1" tstamp="3.500000" />
+                     <slur xml:id="slur-0000001635721681" startid="#note-0000001913769240" endid="#note-0000002047972699" curvedir="above" />
+                     <slur xml:id="slur-0000001300045606" startid="#note-0000000469895228" endid="#note-0000001625847896" curvedir="above" />
+                     <breath xml:id="breath-0000001187228409" staff="1" tstamp="3.2500000" />
                      <dir xml:id="dir-0000001023259148" place="below" staff="1" tstamp="3.500000" vgrp="40">
                         <rend xml:id="rend-0000000170083690" fontstyle="italic">poco rit.</rend>
                      </dir>
@@ -359,7 +359,7 @@
                         <rend xml:id="rend-0000000270554766" fontstyle="italic">grazioso</rend>
                      </dir>
                      <slur xml:id="slur-0000000186844547" startid="#note-0000001163926325" endid="#note-0000000674434895" curvedir="above" />
-                     <hairpin xml:id="hairpin-0000001563428095" staff="1" tstamp="4.000000" tstamp2="0m+4.5000" form="cres" place="below" vgrp="64" />
+                     <hairpin xml:id="hairpin-0000001563428095" staff="1" tstamp="3.5" tstamp2="0m+4.5000" form="cres" place="below" vgrp="40" />
                      <dynam xml:id="dynam-0000000938002825" place="below" staff="2" tstamp="1.000000" vgrp="40">dim.</dynam>
                      <dynam xml:id="dynam-0000000120306940" place="below" staff="3" tstamp="1.000000" vgrp="40">dim.</dynam>
                      <dir xml:id="dir-0000001955398049" place="below" staff="3" tstamp="3.500000" vgrp="40">
@@ -449,10 +449,10 @@
                            <rest xml:id="rest-0000000099690633" dur.ppq="24" dur="8" />
                         </layer>
                      </staff>
-                     <dir xml:id="dir-0000000917775316" place="above" staff="1" tstamp="1.000000" vgrp="200">Recht gemächlich.</dir>
-                     <dir xml:id="dir-0000001486728965" place="above" staff="1" tstamp="1.000000" vgrp="200">(<rend xml:id="rend-0000001819530397" fontweight="bold">Haupttempo</rend>
+                     <dir xml:id="dir-0000001486728965" place="above" staff="1" tstamp="1.000000" vgrp="210">(<rend xml:id="rend-0000001819530397" fontweight="bold">Haupttempo</rend>
                         <rend xml:id="rend-0000000455173490" fontweight="normal">.)</rend>
                      </dir>
+                     <dir xml:id="dir-0000000917775316" place="above" staff="1" tstamp="1.000000" vgrp="200">Recht gemächlich.</dir>
                      <dynam xml:id="dynam-0000000377243905" place="below" staff="1" tstamp="1.000000" vgrp="40">pp</dynam>
                      <dir xml:id="dir-0000000775447306" place="below" staff="1" tstamp="2.000000" vgrp="40">
                         <rend xml:id="rend-0000001584734444" fontstyle="italic">espr.</rend>
