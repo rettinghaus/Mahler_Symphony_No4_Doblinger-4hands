@@ -1,6 +1,11 @@
 ![TROMPA: Towards Richer Online Music Public-domain Archives](https://trompamusic.eu/sites/default/files/top-bar-logo_0_0.png)
                                                                                 
-# MEI encoding of the first 111 measures of Symphony No. 4 by Gustav Mahler             
+# MEI encoding of the first 111 measures of Symphony No. 4 by Gustav Mahler
+
+
+[![DOI](https://zenodo.org/badge/335626475.svg)](https://zenodo.org/badge/latestdoi/335626475)
+
+
                                                                                 
 This repository contains an [MEI](https://music-encoding.org) encoding of the first 111 measures of
 **Symphony No. 4** by Gustav Mahler,
